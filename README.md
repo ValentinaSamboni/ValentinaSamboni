@@ -6,7 +6,6 @@
 
 🎯 I'm creating a Data Science portfolio to stay consistent.<br/>
 
- 🌚 I make content about code and tech for everyone on [Intagram]()
 
  
 # 💻 Tech Stack:
