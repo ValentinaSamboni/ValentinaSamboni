@@ -1,11 +1,10 @@
 ## Hi, I'm Valentina 😃✨
 
-🎓 M.S. Data Science & Engineering — The City College of New York (May 2025)<br/>
+🎓 M.S. Data Science & Engineering — The City College of New York (May 2025). <br/>
 
-🔬 Research Assistant · Transportation Lab @ CCNY — Computer Vision & Intelligent Transportation Systems.<br/>
+🔬 Research Assistant · Transportation Lab @ CCNY — Computer Vision & Intelligent Transportation Systems. <br/>
 
-🚀 Open to Data Scientist, ML Engineer, and Data Analyst roles
- I'm creating a Data Science portfolio to stay consistent.<br/>
+🚀 Open to Data Scientist, ML Engineer, and Data Analyst roles. <br/>
 
 🎯Building my DS portfolio — projects in deep learning, NLP, and data pipelines. <br/>
 
